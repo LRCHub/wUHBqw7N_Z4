@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "ヨワネハキ",
+  "base_artist": "MAISONdes",
+  "createdAt": "2026-02-20T10:21:02.533843Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヨワネハキ",
+      "artist": "MAISONdes feat. 和ぬか & asmi",
+      "has_synced": true,
+      "path": "select/01_ヨワネハキ_MAISONdes_feat._和ぬか_&_asmi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ヨワネハキ",
+      "artist": "MAISONdes, 和ぬか, asmi",
+      "has_synced": true,
+      "path": "select/02_ヨワネハキ_MAISONdes,_和ぬか,_asmi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ヨワネハキ (Snowdrop mix)",
+      "artist": "MAISONdes feat. 和ぬか, asmi & Taro Ishida",
+      "has_synced": true,
+      "path": "select/03_ヨワネハキ_(Snowdrop_mix)_MAISONdes_feat._和ぬか,_asmi_&_Taro_Ishida.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ヨワネハキ (Snowdrop mix)",
+      "artist": "MAISONdes/和ぬか/asmi/Taro Ishida",
+      "has_synced": true,
+      "path": "select/04_ヨワネハキ_(Snowdrop_mix)_MAISONdes_和ぬか_asmi_Taro_Ishida.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ヨワネハキ - From THE FIRST TAKE",
+      "artist": "MAISONdes feat. 和ぬか & asmi",
+      "has_synced": true,
+      "path": "select/05_ヨワネハキ_-_From_THE_FIRST_TAKE_MAISONdes_feat._和ぬか_&_asmi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ヨワネハキ - From THE FIRST TAKE",
+      "artist": "MAISONdes/和ぬか/asmi",
+      "has_synced": true,
+      "path": "select/06_ヨワネハキ_-_From_THE_FIRST_TAKE_MAISONdes_和ぬか_asmi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ヨワネハキ",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/07_ヨワネハキ_MAISONdes.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ヨワネハキ",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/08_ヨワネハキ_MAISONdes.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "【102】[feat. 和ぬか, asmi] ヨワネハキ  / MAISONdes",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/09_【102】[feat._和ぬか,_asmi]_ヨワネハキ___MAISONdes_MAISONdes.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ヨワネハキ - From THE FIRST TAKE",
+      "artist": "MAISONdes feat. 和ぬか, asmi",
+      "has_synced": true,
+      "path": "select/10_ヨワネハキ_-_From_THE_FIRST_TAKE_MAISONdes_feat._和ぬか,_asmi.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ヨワネハキ",
+      "artist": "MAISONdes、和ぬか、Asmi",
+      "has_synced": true,
+      "path": "select/11_ヨワネハキ_MAISONdes、和ぬか、Asmi.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ヨワネハキ",
+      "artist": "和ぬか",
+      "has_synced": true,
+      "path": "select/12_ヨワネハキ_和ぬか.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ヨワネハキ (Paused)",
+      "artist": "MAISONdes",
+      "has_synced": true,
+      "path": "select/13_ヨワネハキ_(Paused)_MAISONdes.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ヨワネハキ (Snowdrop mix)",
+      "artist": "MAISONdes feat. 和ぬか & asmi & Taro Ishida",
+      "has_synced": true,
+      "path": "select/14_ヨワネハキ_(Snowdrop_mix)_MAISONdes_feat._和ぬか_&_asmi_&_Taro_Ishida.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヨワネハキ",
+      "artist": "MAISONdes",
+      "has_synced": false,
+      "path": "select/pl_01_ヨワネハキ_MAISONdes.txt"
+    }
+  ]
+}
